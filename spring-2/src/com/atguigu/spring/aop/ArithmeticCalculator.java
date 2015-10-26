@@ -1,5 +1,5 @@
 package com.atguigu.spring.aop;
-
+ 
 public interface ArithmeticCalculator {
 
 	int add(int i, int j);
